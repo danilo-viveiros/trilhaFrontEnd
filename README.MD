@@ -49,7 +49,7 @@ Um VCS é um sistema que compartilha e gerencia diferentes versões de um projet
 - CVS
 - SVN
 
-4️⃣ d) Crie um repositório no seu git pessoal “trilhaBackEnd” e utilize para entrega de todos os desafios.Crie um arquivo README.md, adicione as respostas do exercício neste documento, personalize o documento.
+4️⃣ Crie um repositório no seu git pessoal “trilhaBackEnd” e utilize para entrega de todos os desafios.Crie um arquivo README.md, adicione as respostas do exercício neste documento, personalize o documento.
 
 
 - https://github.com/danilo-viveiros/trilhaFrontEnd.git
