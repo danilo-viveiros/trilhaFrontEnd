@@ -13,7 +13,7 @@ Tabem vimos como as propriedades do FLEX-BOX e GRID sao importantes para organiz
 Esse projeto utiliza as seguintes tecnologias
 
 - [HTML](https://www.w3schools.com/html/)
-- [CSS](s://www.w3schools.com/css/default.asp)
+- [CSS](www.w3schools.com/css/default.asp)
 - [GRID](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 - [FLEX-BOX](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
