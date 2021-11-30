@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+        crossorigin="anonymous" />
+    <title>Protótipo</title>
+</head>
+
+<body>
+
+    <header class="header">
+        <h2><i class="fas fa-plane-departure"></i> Só Vamuu!!</h2>
+        <nav class="header__menu">
+            <ul class="links__menu">
+                <li><a href="#" class="header__menu__item">Home</a></li>
+                <li><a href="#" class="header__menu__item">Profile</a></li>
+                <li><a href="#" class="header__menu__item">About</a></li>
+                <li><a href="#" class="header__menu__item">Contact</a></li>
+                <li><a href="#" class="header__menu__item signin__button">Sign In</a></li>
+            </ul>
+            <div class="hamburguer">
+                <div class="linha"></div>
+                <div class="linha"></div>
+                <div class="linha"></div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="secao__formulario">
+            <section class="imagem">
+                <figure>
+                    <img src="./img/e-mail.png"
+                        alt="Imagem de um simpatico boneco segurando um conteiner que em cima esta outro simpatico boneco com um aviao de papel na mao">
+                </figure>
+            </section>
+
+            <section class="lateral">
+                <article class="texto">
+                    <h1>CONTACT US</h1>
+                    <br>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores hic fugiat consequuntur in
+                        consectetur ea nobis mollitia explicabo libero !</p>
+
+                </article>
+                <section class="formulario">
+
+                    <div class="input">
+                        <i class="fas fa-user"></i>
+                        <input id="nomeUsuario" name="nomeUsuario" placeholder="Insira seu nome" type="text">
+                    </div>
+
+                    <div class="input">
+                        <br>
+                        <i class="far fa-envelope"></i>
+                        <input id="emailUsuario" name="emailUsuario" placeholder="Insira seu e-mail" type="email">
+
+                    </div>
+
+                    <div class="input__txt">
+                        <br>
+                        <i class="far fa-comment-alt"></i>
+                        <textarea name="mensagem" id="mensagem" cols="30" rows="10"
+                            placeholder="Digite aqui sua mensagem "></textarea>
+                    </div>
+
+                    <div class="btn">
+                        <br>
+                        <button type="submit">Star chat!</button>
+                    </div>
+                </section>
+            </section>
+        </section>
+        <footer>
+        </footer>
+    </main>
+    <script src="./js/app.js"></script>
+</body>
+
+</html>
